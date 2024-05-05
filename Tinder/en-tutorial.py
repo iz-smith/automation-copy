@@ -7,7 +7,7 @@ import time
 opening_line = "Hi!"
 number_of_swipes = 10
 
-path = /Users/schoolaccount/Desktop/chromedriver-mac-arm64
+path = "/Users/schoolaccount/Desktop/chromedriver-mac-arm64"
 service = Service(executable_path=path)
 web = 'https://tinder.com/'
 
